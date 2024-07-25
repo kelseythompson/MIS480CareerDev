@@ -1,1 +1,1 @@
-# MIS480CareerDev
+MIS480CareerDev/Java. To manage and further your child's reading, the program will utilize input data such as activity type, time, date and length as well as day start/bed time. This data will create a small database of information. This will include activities that the parent completes throughout the day. 
